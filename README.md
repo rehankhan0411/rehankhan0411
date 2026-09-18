@@ -23,7 +23,7 @@ Currently learning **Java, Python, Data Structures & Algorithms**
 - NumPy
 - Pandas
 - Matplotlib
-- Machine Learning — Currently Learning
+
 
 ### Core Computer Science
 - Data Structures & Algorithms
