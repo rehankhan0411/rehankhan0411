@@ -36,8 +36,3 @@ Currently learning **Java, Python, Data Structures & Algorithms**
 rehankhan481402@gmail.com
 
 
-
-
-Full-Stack Development      █████░░░░░  Exploring
-Machine Learning             ████░░░░░░  Exploring
-Open Source                  ███░░░░░░░  Exploring
