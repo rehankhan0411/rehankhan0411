@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi, I'm Rehan Khan 
 
-<!--
-**rehankhan0411/rehankhan0411** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### B.E. Computer Science Engineering (Data Science) Student 
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+B.E. CSE (Data Science) Student
+Currently learning **Java, Python, Data Structures & Algorithms**
+
+### Programming Languages
+- C
+- Java
+- Python
+
+### Web Development
+- HTML
+- CSS
+- JavaScript
+- Java
+
+### Data & AI
+- Python
+- NumPy
+- Pandas
+- Matplotlib
+- Machine Learning — Currently Learning
+
+### Core Computer Science
+- Data Structures & Algorithms
+- Object-Oriented Programming
+- Database Management Systems
+- Computer Organization
+
+
+## connect with me
+rehankhan481402@gmail.com
+
+
+
+
+Full-Stack Development      █████░░░░░  Exploring
+Machine Learning             ████░░░░░░  Exploring
+Open Source                  ███░░░░░░░  Exploring
